@@ -1,0 +1,7 @@
+name: View Json Backend
+description: Adds a views backend to query Json files.
+core: 8.x
+type: module
+package: Views
+dependencies:
+  - views
